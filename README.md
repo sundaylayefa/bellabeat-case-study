@@ -181,4 +181,7 @@ Commission a **larger, recent dataset** segmented by:
 - Age group  
 - Lifestyle  
 
-This will help validate findings before making major marketing investment decisions.  
+This will help validate findings before making major marketing investment decisions.
+
+Analysis available on Kaggle: 
+[Bellabeat](https://www.kaggle.com/code/sundaybenedicta/bellabeat-smart-device-usage-analysis) 
